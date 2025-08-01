@@ -87,6 +87,9 @@ Get immediate results and visual summary
 👩‍💻 Developers
 Bisetty Sravani
 
+LinkedIn Profile
+https://www.linkedin.com/in/sravani-bisetty-384b6b288
+
 📜 License
 This project is licensed under the MIT License.
 
