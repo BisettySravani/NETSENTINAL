@@ -47,8 +47,8 @@ NETSENTINAL-NIDS/
 
 ⚙️ Setup Instructions
 1.Clone the repository:
-git clone https://github.com/dev-26-17/NETSENTINAL-NIDS.git
-cd NETSENTINAL-NIDS
+git clone https://github.com/BisettySravani/NETSENTINAL.git
+cd NETSENTINAL
 2.Create and activate virtual environment:
 python -m venv venv
 venv\Scripts\activate  # On Windows
