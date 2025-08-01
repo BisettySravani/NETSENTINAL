@@ -85,9 +85,7 @@ Upload via the interface
 Get immediate results and visual summary
 
 👩‍💻 Developers
-Devaki Vasundhara Kadupu
-
-LinkedIn Profile
+Bisetty Sravani
 
 📜 License
 This project is licensed under the MIT License.
